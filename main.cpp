@@ -2,7 +2,6 @@
 #include "game.h"
 
 int main(void) {
-
     // removed spaces <3
 	Menu* menu = new Menu();
 	menu->run_menu();
