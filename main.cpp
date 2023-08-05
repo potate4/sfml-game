@@ -12,6 +12,7 @@ int main(void) {
 		Game.update();
 		Game.render();
 	}
+	// trying out pulling
 	delete menu;
 	menu = nullptr;
 
